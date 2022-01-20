@@ -18,7 +18,7 @@
             <option value="/">/</option>
         </select>
         <input type="number" name="num2" placeholder="Número 2">
-        <button type="submit">Somar</button>
+        <button type="submit">Calcular</button>
     </form>
 </body>
 </html>
