@@ -31,8 +31,3 @@ Route::post('/calcular', [
     CalculadoraController::class,
     'calcular'
 ]);
-
-Route::get('/pokemon/{nome}', [
-    PokemonController::class,
-    'nome'
-]);
